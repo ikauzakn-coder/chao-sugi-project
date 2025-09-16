@@ -32,3 +32,14 @@ google-services.json
 
 # Android Profiling
 *.hprof
+
+# ---- Arduino / ESP32 ----
+*.elf
+*.bin
+*.hex
+*.eep
+build/
+out/
+*.ino.cpp
+*.sketch
+*.ino.elf
